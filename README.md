@@ -1,13 +1,13 @@
-# NVIDIA USD Attic Sample (HARFANG 3D Format)
+# NVIDIA USD Attic Sample <sub><sup>(HARFANG® 3D Format)</sup></sub>
 
- [NVIDIA USD Attic Sample](https://developer.nvidia.com/usd), in HARFANG 3D format.
+ [NVIDIA USD Attic Sample](https://developer.nvidia.com/usd), in HARFANG® 3D format.
 
-![NVIDIA USD Attic in HARFANG Studio](img/attic_harfang.png)
-_The NVIDIA USD Attic in HARFANG Studio, using the AAA renderer._
+![NVIDIA USD Attic using the HARFANG AAA renderer](img/attic_harfang.png)
+_The NVIDIA USD Attic using the AAA renderer._
 
 ## Overview
 
-This repository contains the work done to convert the NVIDIA USD Attic Sample scene to HARFANG 3D format, using the [USD Importer](https://github.com/harfang3d/usd-importer). The goal of this project was to demonstrate the power of the USD Importer and HARFANG 3D tools in managing and converting complex 3D scenes.
+This repository contains the work done to convert the NVIDIA USD Attic Sample scene to HARFANG® 3D format, using the [USD Importer](https://github.com/harfang3d/usd-importer). The goal of this project was to demonstrate the power of the USD Importer and HARFANG® 3D tools in managing and converting complex 3D scenes.
 
 ## Conversion Process
 
@@ -26,4 +26,9 @@ The original [NVIDIA USD Attic Sample scene](https://developer.nvidia.com/usd) a
 ## Acknowledgements
 
 We thank NVIDIA for providing the original Attic Sample scene, which made this project possible.
+
+<br>
+
+![NVIDIA USD Attic in HARFANG Studio](img/attic_harfang-studio.png)
+_NVIDIA USD Attic in HARFANG Studio._
 
